@@ -6,6 +6,7 @@ This project involves analyzing student test scores, exploring the relationships
 
 - **data**/ – /content/hw4_exams.csv.
 - **notebooks**/ – updated final code.ipynb.
+- Ignore untitled13.ipynb file
 
 ## Installation
 
