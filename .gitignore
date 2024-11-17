@@ -1,0 +1,28 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Data files (if you do not want to track data files in version control)
+*.csv
+*.xlsx
+*.json
+
+# Operating system specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
