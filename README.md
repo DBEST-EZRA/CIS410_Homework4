@@ -8,6 +8,10 @@ This project involves analyzing student test scores, exploring the relationships
 - **notebooks**/ – updated final code.ipynb.
 - Ignore untitled13.ipynb file
 
+## Results
+- Gender-based performance differences: Females generally scored higher in writing and reading compared to males, though the difference was not as pronounced in math scores.
+- Impact of test preparation: Students who completed the test preparation course showed improved scores across all subjects (Math, Reading, and Writing).
+
 ## Installation
 
 1. Clone the repository:
